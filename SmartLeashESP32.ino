@@ -46,7 +46,7 @@ class MyCallbacks : public BLECharacteristicCallbacks {
     }
 
     // ==========================
-    // COMANDO 2 - FEA (VEN)
+    // COMANDO 2 - FEA
     // ==========================
     else if (value == "2") {
 
